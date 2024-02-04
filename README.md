@@ -1,10 +1,15 @@
 # BTS-MAP-OF-THE-SOUL-7-Album-Music-Player-
-Welcome to the BTS MAP OF THE SOUL 7 Album Music Player – an exciting open-source project that invites collaboration and contributions from the community. This repository is a dedicated space for an innovative music player designed specifically for the acclaimed BTS album, MAP OF THE SOUL 7. We invite developers, enthusiasts, and experts to join me in the journey of elevating and perfecting this project.
+Welcome to the BTS MAP OF THE SOUL 7 Album Music Player 
 
-Important Notice: Bugs and Code Practices
+– an exciting open-source project that invites collaboration and contributions from the community. This repository is a dedicated space for an innovative music player designed specifically for the acclaimed BTS album, MAP OF THE SOUL 7. We invite developers, enthusiasts, and experts to join me in the journey of elevating and perfecting this project.
+
+Important Notice: 
+
+Bugs and Code Practices
 Please be aware that, at this stage, the music player may have some known issues, such as difficulties playing audio. Additionally, there might be instances of suboptimal coding practices within the current codebase.
 
 How to Contribute
+
 I will value and appreciate contributions from the community to address these issues and make this project even more extraordinary. If you're eager to contribute, follow these steps:
 1.Fork the Repository: Start by forking the repository to your GitHub account.
 2.Clone the Repository: Clone the forked repository to your local machine.
@@ -15,5 +20,6 @@ I will value and appreciate contributions from the community to address these is
 7.Open a Pull Request: Submit a pull request to the main repository, providing a detailed description of your changes.
 
 Contact
+
 For any questions or concerns, feel free to reach out at [ujoshua368@gmail.com].
 
