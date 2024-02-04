@@ -6,6 +6,7 @@ Welcome to the BTS MAP OF THE SOUL 7 Album Music Player
 Important Notice: 
 
 Bugs and Code Practices
+
 Please be aware that, at this stage, the music player may have some known issues, such as difficulties playing audio. Additionally, there might be instances of suboptimal coding practices within the current codebase.
 
 How to Contribute
