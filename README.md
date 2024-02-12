@@ -1,4 +1,4 @@
-# BTS-MAP-OF-THE-SOUL-7-Album-Music-Player-
+<a href="https://joshua-a69.github.io/BTS-MAP-OF-THE-SOUL-7-Album-Music-Player-/MapOfTheSoul7.html"> BTS-MAP-OF-THE-SOUL-7-Album-Music-Player</a>
 Welcome to the BTS MAP OF THE SOUL 7 Album Music Player 
 
 – an exciting open-source project that invites collaboration and contributions from the community. This repository is a dedicated space for an innovative music player designed specifically for the acclaimed BTS album, MAP OF THE SOUL 7. I invite developers, enthusiasts, and experts to join me in the journey of elevating and perfecting this project.
